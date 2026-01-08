@@ -75,8 +75,6 @@ export default function ResultCard({ result }) {
 
       </div>
       
-      
-      {/* BOTTOM SECTION: TIER & RANGE */}
       <div className="mt-6 text-center border-t border-gray-100 pt-6">
         <p className="text-gray-900 font-bold text-lg mt-1">
           Estimated Codeforces Range: {ratingInfo.range}

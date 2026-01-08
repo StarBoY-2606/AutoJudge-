@@ -84,3 +84,7 @@ Output Section: Displays the results returned by the model:
 Predicted Class: e.g., "Medium"
 Predicted Score: e.g., "5/10"
 Estimated Codeforces Rating Range : e.g., "1200-1399"
+
+7.Demo Video Link:- https://youtu.be/GTnpKmEkamw?si=AhWZQU3pj0_u5ZXs
+
+8.Details:- Kartik Maihuria 2nd Year ECE 24116042
